@@ -97,7 +97,7 @@ This project entails the design and implementation of a comprehensive FullStack 
 2. Obtain mongodb secret and created a .env file under server folder
 .env file structure
   ```sh
-MONGO_URL="repalced your secret here"
+MONGO_URL="replaced your secret here"
 PORT=6001
 JWT_SECRET = "secretstringhololololo" // can be replaced by any secret as you wish
   ```
