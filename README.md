@@ -32,7 +32,7 @@
   <p align="center">
     An awesome social app demo!
     <br />
-    <a href="https://github.com/pt4300/Multi-threaded-Dictionary-Server.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pt4300/MERN-SoicalWebApp"><strong>Explore the docs »</strong></a>
     <br />
 
 
